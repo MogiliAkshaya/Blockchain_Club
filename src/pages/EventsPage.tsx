@@ -24,7 +24,7 @@ const EventsPage: React.FC = () => {
       title: 'IDEATHON',
       date: 'Feb 17, 2024',
       description: 'A high-impact competition where teams pitched blockchain solutions in financial inclusion, healthcare, DAOs, NFTs, education, and gaming.',
-      image: '../src/Images/Events/Ideathon.jpg',
+      image: '/Images/Events/Ideathon.jpg',
       highlights: [
         'Sponsored Merch: Participants received exclusive swag from Polygon & The Graph',
         'Evaluation Criteria: Creativity, feasibility, originality, and social impact'
@@ -34,7 +34,7 @@ const EventsPage: React.FC = () => {
       title: 'Billion Reasons to Build (Push BRB Tour)',
       date: 'January 2024',
       description: 'A pan-India blockchain initiative with Push Protocol and 12+ global Web3 companies.',
-      image: '../src/Images/Events/push.jpg',
+      image: '/Images/Events/push.jpg',
       highlights: [
         'Workshops, expert panels, and networking with top Web3 innovators'
       ]
@@ -43,7 +43,7 @@ const EventsPage: React.FC = () => {
       title: 'Web3Camp with GirlScript',
       date: 'Dec 4-5, 2023',
       description: 'A city-wide event introducing students to blockchain technology and career opportunities.',
-      image: '../src/Images/Events/GirlsScript.jpg',
+      image: '/Images/Events/GirlsScript.jpg',
       highlights: [
         'Internship Opportunities: Industry leaders identified top talent for internships',
         'Non-Tech Participation: Special sessions for MBA, Law, and Management students'
@@ -53,7 +53,7 @@ const EventsPage: React.FC = () => {
       title: 'Aleph Zero Workshop - 1',
       date: 'Sep 18, 2023',
       description: 'An introduction to blockchain technology with insights from industry leaders.',
-      image: '../src/Images/Events/Aleph1.jpg',
+      image: '/Images/Events/Aleph1.jpg',
       highlights: [
         'Led by Rajashekar, Founder of Colibri Validator & Aleph Zero India Lead',
         'Co-led by Siv Ram Shastri, Co-founder of Hyderabad DAO & Aleph Zero India Co-Lead',
@@ -64,7 +64,7 @@ const EventsPage: React.FC = () => {
       title: 'Namaste Arbitrum Workshop',
       date: 'Oct 14, 2023',
       description: 'An in-depth session on Ethereum, Arbitrum, and blockchain governance.',
-      image: '../src/Images/Events/Namaste.jpg',
+      image: '/Images/Events/Namaste.jpg',
       highlights: [
         'Covered Ethereum fundamentals, Arbitrum governance, and blockchain career paths',
         'Included merch, certificates, and surprise quiz prizes'
@@ -74,7 +74,7 @@ const EventsPage: React.FC = () => {
       title: 'Web3 101: Blockchain Dev Kickoff',
       date: 'Jan 29, 2024',
       description: 'A hands-on workshop on blockchain development.',
-      image: '../src/Images/Events/Devkickoff.jpg',
+      image: '/Images/Events/Devkickoff.jpg',
       highlights: [
         'Explored EVM chains, MetaMask wallet setup, and transactions',
         'Provided exclusive Web3 resources'
@@ -84,7 +84,7 @@ const EventsPage: React.FC = () => {
       title: 'Aleph Zero Blockchain Session - 2',
       date: 'Feb 5, 2024',
       description: 'An interactive session on privacy infrastructure and blockchain projects.',
-      image: '../src/Images/Events/Aleph2.jpg',
+      image: '/Images/Events/Aleph2.jpg',
       highlights: [
         'Led by Rajashekar (Colibri Validator & Aleph Zero India Lead)',
         'Co-led by Siv Ram Shastri (Hyderabad DAO & Aleph Zero India Co-Lead)',

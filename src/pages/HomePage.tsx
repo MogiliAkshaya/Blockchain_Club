@@ -17,7 +17,7 @@ const HomePage: React.FC = () => {
     {
       title: 'IDEATHON',
       date: 'Feb 17, 2024',
-      image: '../src/Images/Events/Ideathon.jpg',
+      image: '/Images/Events/Ideathon.jpg',
       description: 'Teams pitched blockchain solutions in financial inclusion, healthcare, DAOs, NFTs, education, and gaming.',
     },
   ];
@@ -199,10 +199,10 @@ const HomePage: React.FC = () => {
           
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
             {[
-              '../src/Images/Events/Ideathon.jpg',
-              '../src/Images/Events/push.jpg',
-              '../src/Images/Events/GirlsScript.jpg',
-              '../src/Images/Events/Aleph1.jpg',
+              '/Images/Events/Ideathon.jpg',
+              '/Images/Events/push.jpg',
+              '/Images/Events/GirlsScript.jpg',
+              '/Images/Events/Aleph1.jpg',
             ].map((image, index) => (
               <motion.div
                 key={index}

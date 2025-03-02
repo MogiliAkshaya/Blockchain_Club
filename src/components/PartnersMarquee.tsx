@@ -2,15 +2,15 @@ import React from 'react';
 import { motion } from 'framer-motion';
 
 const partners = [
-  { name: 'Lumoslabs', logo: '../src/Images/Patners/Lumoslabs.jpg' },
-  { name: 'Arbitrum', logo: '../src/Images/Patners/arbitrium.png' },
-  { name: 'Aleph Zero', logo: '../src/Images/Patners/Aleph0.png' },
+  { name: 'Lumoslabs', logo: '/Images/Patners/Lumoslabs.jpg' },
+  { name: 'Arbitrum', logo: '/Images/Patners/arbitrium.png' },
+  { name: 'Aleph Zero', logo: '/Images/Patners/Aleph0.png' },
   { name: 'Filecoin', logo: 'https://cryptologos.cc/logos/filecoin-fil-logo.png' },
   { name: 'Polygon', logo: 'https://cryptologos.cc/logos/polygon-matic-logo.png' },
   { name: 'The Graph', logo: 'https://cryptologos.cc/logos/the-graph-grt-logo.png' },
-  { name: 'Tech Mahindra', logo: '../src/Images/Patners/TechMahindra.png' },
-  { name: 'Hyderabad DAO', logo: '../src/Images/Patners/HydDAO.png' },
-  { name: 'IDW', logo: '../src/Images/Patners/IDW.png' },
+  { name: 'Tech Mahindra', logo: '/Images/Patners/TechMahindra.png' },
+  { name: 'Hyderabad DAO', logo: '/Images/Patners/HydDAO.png' },
+  { name: 'IDW', logo: '/Images/Patners/IDW.png' },
 ];
 
 const PartnersMarquee: React.FC = () => {

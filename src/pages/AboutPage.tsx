@@ -7,22 +7,22 @@ const AboutPage: React.FC = () => {
     {
       name: 'Mogili Akshaya',
       role: 'Head',
-      image: "../src/Images/head.jpg",
+      image: "/Images/Head.jpg",
     },
     {
       name: 'Vaideesh',
       role: 'Vice Head',
-      image: "../src/Images/Vicehead.jpg",
+      image: "/Images/Vicehead.jpg",
     },
     {
       name: 'Yashwanth',
       role: 'Technical Head',
-      image: "../src/Images/TechHead.jpg",
+      image: "/Images/TechHead.jpg",
     },
     {
       name: 'Parth',
       role: 'Technical ViceHead',
-      image: "../src/Images/TechViceHead.jpg",
+      image: "/Images/TechViceHead.jpg",
     },
   ];
 
