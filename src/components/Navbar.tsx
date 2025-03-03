@@ -47,7 +47,7 @@ const Navbar: React.FC = () => {
           <Link to="/" className="flex items-center space-x-2" onClick={closeMenu}>
             {/* <Blocks className="h-8 w-8 text-purple-500" /> */}
             <img src="/Images/logo1.png" alt="" className='h-9 w-9' />
-            <span className="text-xl font-bold tracking-tight text-purple-500">BLOCKCHAIN MAHINDHRA UNIVERSITY</span>
+            <span className="text-xl font-bold tracking-tight text-purple-500">BLOCKCHAIN MAHINDRA UNIVERSITY</span>
           </Link>
 
           {/* Desktop Navigation */}
