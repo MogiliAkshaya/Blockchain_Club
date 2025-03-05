@@ -10,7 +10,7 @@ import ContactPage from './pages/ContactPage';
 
 function App() {
   return (
-    <div className="min-h-screen flex flex-col bg-gradient-to-br from-gray-900 to-gray-800 text-white">
+    <div className="min-h-screen flex flex-col bg-gradient-to-br from-gray-900 to-gray-800 text-white overflow-x-hidden">
       <Navbar />
       <main className="flex-grow">
         <Routes>
